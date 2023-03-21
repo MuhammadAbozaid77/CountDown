@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700&family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+*{
+    padding: 0px ;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Cairo', sans-serif;
+  }
+
+  .home {
+    min-height: 100vh ;
+    background-image: linear-gradient(to left , #6345aa, #6672cb);
+    padding: 200px 0px;
+  }
+  .CounterDesign {
+    width: 100%;
+    padding:20px;
+    border-radius: 10px;
+    background-image: linear-gradient(to left , #3d5dec, #609ef2);
+
+  }
+
+  h1 {
+    font-size: 70px;
+    color: white;
+    padding: 10px 30px;
+  }
+  h6 {
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px 30px;
+  }
+  .cool {
+    background-color: #052e66;
+    border-radius: 10px;
+    color: white;
+  }
